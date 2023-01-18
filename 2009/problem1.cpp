@@ -20,3 +20,4 @@ int main() {
 	cout << "NO" << '\n';
 	return 0;
 }
+
