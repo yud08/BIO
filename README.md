@@ -27,5 +27,8 @@ Solution to British Informatics Olympiad Round 1 in C++
 
 
 Some BIO related links
+
 [BIO organizer](https://www.olympiad.org.uk/)
+
 [Python solutions](https://github.com/tmncollins/BIO-Solutions)
+
